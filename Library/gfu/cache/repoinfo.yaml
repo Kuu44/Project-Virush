@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-14T13:30:25.295+05:45
-  initializedAtString: 2020-05-14T13:30:25.295+05:45
+  lastUpdatedAtString: 2020-05-14T13:50:17.268+05:45
+  initializedAtString: 2020-05-14T13:40:12.001+05:45
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/Kuu44/Project-Virush.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Kuu44/Project-Virush.git
+    trackingBranch: master
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/Kuu44/Project-Virush.git
   currentHead: 
