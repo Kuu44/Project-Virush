@@ -13,9 +13,207 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-14T13:51:14.101+05:45
-  initializedAtString: 2020-05-14T13:51:10.133+05:45
+  lastUpdatedAtString: 2020-05-14T16:40:54.571+05:45
+  initializedAtString: 2020-05-14T16:40:52.038+05:45
   log:
+  - commitID: 79409e1f63f881f850261bd19a93ec0db9875881
+    mergeA: 
+    mergeB: 
+    authorName: Kushal
+    authorEmail: kushal-shrestha@hotmail.com
+    commitEmail: kushal-shrestha@hotmail.com
+    commitName: Kushal
+    summary: License
+    description: 
+    timeString: 2020-05-14T15:45:09.000+05:45
+    commitTimeString: 2020-05-14T15:45:09.000+05:45
+    changes:
+    - path: .gitattributes
+      fullPath: D:\Docs\Unity\Project virus\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Unity_v2019.x.ulf.enc
+      fullPath: D:\Docs\Unity\Project virus\Unity_v2019.x.ulf.enc
+      projectPath: Unity_v2019.x.ulf.enc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: e1c18cb7fe1b5fffdd8430b440e525f9b7654399
+    mergeA: 
+    mergeB: 
+    authorName: Kushal
+    authorEmail: kushal-shrestha@hotmail.com
+    commitEmail: kushal-shrestha@hotmail.com
+    commitName: Kushal
+    summary: Travis
+    description: 
+    timeString: 2020-05-14T15:43:25.000+05:45
+    commitTimeString: 2020-05-14T15:43:25.000+05:45
+    changes:
+    - path: .gitignore
+      fullPath: D:\Docs\Unity\Project virus\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .travis.yml
+      fullPath: D:\Docs\Unity\Project virus\.travis.yml
+      projectPath: .travis.yml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Editor.meta
+      fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor.meta
+      projectPath: Assets\Scripts\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Editor\BuildCommand.cs
+      fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\BuildCommand.cs
+      projectPath: Assets\Scripts\Editor\BuildCommand.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Editor\BuildCommand.cs.meta
+      fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\BuildCommand.cs.meta
+      projectPath: Assets\Scripts\Editor\BuildCommand.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Editor\EditModeTests.meta
+      fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\EditModeTests.meta
+      projectPath: Assets\Scripts\Editor\EditModeTests.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs
+      fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs
+      projectPath: Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs.meta
+      fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs.meta
+      projectPath: Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Editor\PostBuildProcessor.cs
+      fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\PostBuildProcessor.cs
+      projectPath: Assets\Scripts\Editor\PostBuildProcessor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Editor\PostBuildProcessor.cs.meta
+      fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\PostBuildProcessor.cs.meta
+      projectPath: Assets\Scripts\Editor\PostBuildProcessor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_c15fe479-ff86-47b8-b308-a5b8d3a193d3.txt
+      fullPath: D:\Docs\Unity\Project virus\Library\Collab\CollabSnapshot_c15fe479-ff86-47b8-b308-a5b8d3a193d3.txt
+      projectPath: Library\Collab\CollabSnapshot_c15fe479-ff86-47b8-b308-a5b8d3a193d3.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\Docs\Unity\Project virus\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\743e37-mainStage.json
+      fullPath: D:\Docs\Unity\Project virus\Library\StateCache\Hierarchy\743e37-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\743e37-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\Docs\Unity\Project virus\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Project virus.sln
+      fullPath: D:\Docs\Unity\Project virus\Project virus.sln
+      projectPath: Project virus.sln
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ci\before_script.sh
+      fullPath: D:\Docs\Unity\Project virus\ci\before_script.sh
+      projectPath: ci\before_script.sh
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ci\build.sh
+      fullPath: D:\Docs\Unity\Project virus\ci\build.sh
+      projectPath: ci\build.sh
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ci\docker_build.sh
+      fullPath: D:\Docs\Unity\Project virus\ci\docker_build.sh
+      projectPath: ci\docker_build.sh
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ci\docker_test.sh
+      fullPath: D:\Docs\Unity\Project virus\ci\docker_test.sh
+      projectPath: ci\docker_test.sh
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ci\get_activation_file.sh
+      fullPath: D:\Docs\Unity\Project virus\ci\get_activation_file.sh
+      projectPath: ci\get_activation_file.sh
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ci\test.sh
+      fullPath: D:\Docs\Unity\Project virus\ci\test.sh
+      projectPath: ci\test.sh
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: becd0c20e32bee27e251bf33df62c771afae508a
     mergeA: 
     mergeB: 

@@ -13,60 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-14T14:52:16.256+05:45
+  lastUpdatedAtString: 2020-05-14T16:40:58.531+05:45
   initializedAtString: 2020-05-14T13:52:30.981+05:45
   entries:
   - path: .travis.yml
     fullPath: D:\Docs\Unity\Project virus\.travis.yml
     projectPath: .travis.yml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Editor.meta
-    fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor.meta
-    projectPath: Assets\Scripts\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Editor\BuildCommand.cs
-    fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\BuildCommand.cs
-    projectPath: Assets\Scripts\Editor\BuildCommand.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Editor\BuildCommand.cs.meta
-    fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\BuildCommand.cs.meta
-    projectPath: Assets\Scripts\Editor\BuildCommand.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Editor\EditModeTests.meta
-    fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\EditModeTests.meta
-    projectPath: Assets\Scripts\Editor\EditModeTests.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs
-    fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs
-    projectPath: Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs.meta
-    fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs.meta
-    projectPath: Assets\Scripts\Editor\EditModeTests\EditModeExampleTests.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Editor\PostBuildProcessor.cs
-    fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\PostBuildProcessor.cs
-    projectPath: Assets\Scripts\Editor\PostBuildProcessor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Editor\PostBuildProcessor.cs.meta
-    fullPath: D:\Docs\Unity\Project virus\Assets\Scripts\Editor\PostBuildProcessor.cs.meta
-    projectPath: Assets\Scripts\Editor\PostBuildProcessor.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basher.sh
+    fullPath: D:\Docs\Unity\Project virus\basher.sh
+    projectPath: basher.sh
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -74,56 +32,32 @@ MonoBehaviour:
     fullPath: D:\Docs\Unity\Project virus\ci\before_script.sh
     projectPath: ci\before_script.sh
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: ci\build.sh
     fullPath: D:\Docs\Unity\Project virus\ci\build.sh
     projectPath: ci\build.sh
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: ci\docker_build.sh
     fullPath: D:\Docs\Unity\Project virus\ci\docker_build.sh
     projectPath: ci\docker_build.sh
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ci\docker_test.sh
-    fullPath: D:\Docs\Unity\Project virus\ci\docker_test.sh
-    projectPath: ci\docker_test.sh
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ci\get_activation_file.sh
-    fullPath: D:\Docs\Unity\Project virus\ci\get_activation_file.sh
-    projectPath: ci\get_activation_file.sh
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ci\test.sh
-    fullPath: D:\Docs\Unity\Project virus\ci\test.sh
-    projectPath: ci\test.sh
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\assetDatabase3
-    fullPath: D:\Docs\Unity\Project virus\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Collab\CollabSnapshot_c15fe479-ff86-47b8-b308-a5b8d3a193d3.txt
-    fullPath: D:\Docs\Unity\Project virus\Library\Collab\CollabSnapshot_c15fe479-ff86-47b8-b308-a5b8d3a193d3.txt
-    projectPath: Library\Collab\CollabSnapshot_c15fe479-ff86-47b8-b308-a5b8d3a193d3.txt
+  - path: ci\get_license.sh
+    fullPath: D:\Docs\Unity\Project virus\ci\get_license.sh
+    projectPath: ci\get_license.sh
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: D:\Docs\Unity\Project virus\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ci\webhook_send.sh
+    fullPath: D:\Docs\Unity\Project virus\ci\webhook_send.sh
+    projectPath: ci\webhook_send.sh
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -151,30 +85,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\Docs\Unity\Project virus\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: D:\Docs\Unity\Project virus\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\743e37-mainStage.json
-    fullPath: D:\Docs\Unity\Project virus\Library\StateCache\Hierarchy\743e37-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\743e37-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Project virus.sln
-    fullPath: D:\Docs\Unity\Project virus\Project virus.sln
-    projectPath: Project virus.sln
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
