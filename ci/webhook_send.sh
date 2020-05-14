@@ -19,6 +19,12 @@ case $1 in
     AVATAR="https://travis-ci.org/images/logos/TravisCI-Mascot-red.png"
     ;;
 
+  "started" )
+    EMBED_COLOR=12370112
+    STATUS_MESSAGE="Started"
+    AVATAR="https://conceptdraw.com/a1718c3/p1/preview/640/pict--start-project-project-management---vector-stencils-library.png--diagram-flowchart-example.png"
+    ;;
+
   * )
     EMBED_COLOR=0
     STATUS_MESSAGE="Status Unknown"
@@ -32,9 +38,9 @@ COMMIT_SUBJECT="$(git log -1 "$TRAVIS_COMMIT" --pretty="%s")"
 COMMIT_MESSAGE="$(git log -1 "$TRAVIS_COMMIT" --pretty="%b")" | sed -E ':a;N;$!ba;s/\r{0,1}\n/\\n/g'
 
 if [ "$AUTHOR_NAME" == "$COMMITTER_NAME" ]; then
-  CREDITS="$AUTHOR_NAME authored & committed"
+  CREDITS="$AUTHOR_NAME razzled & dazzled"
 else
-  CREDITS="$AUTHOR_NAME authored & $COMMITTER_NAME committed"
+  CREDITS="$AUTHOR_NAME razzled & $COMMITTER_NAME dazzled"
 fi
 
 if [[ $TRAVIS_PULL_REQUEST != false ]]; then
