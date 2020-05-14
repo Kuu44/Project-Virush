@@ -68,3 +68,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Library/CurrentLayout-default.dwlt
+Library/gfu/cache/branches.yaml
+Library/gfu/cache/gitlocks.yaml
+Library/gfu/cache/gitlog.yaml
+Library/gfu/cache/gitstatusentries.yaml
+Library/gfu/cache/gittrackingstatus.yaml
+Library/gfu/cache/repoinfo.yaml
+Library/StateCache/Hierarchy/743e37-mainStage.json
