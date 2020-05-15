@@ -38,6 +38,7 @@ deploy:
   - "./Builds/Android/${BUILD_NAME}.apk"
   skip_cleanup: true
   draft: true
+
 after_success:
 - chmod +x ci/webhook_send.sh
 - "./ci/webhook_send.sh success $WEBHOOK_URL"
