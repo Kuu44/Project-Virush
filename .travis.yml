@@ -45,7 +45,7 @@ deploy:
   skip_cleanup: true
   on:
      tags: true
-  overwrite: true
+   overwrite: true
 
 after_success:
 - chmod +x ci/webhook_send.sh
