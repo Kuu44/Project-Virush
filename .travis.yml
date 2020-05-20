@@ -7,7 +7,6 @@ env:
 services:
 - docker
 before_install:
-#- openssl aes-256-cbc -K $encrypted_ff1a8d824b7b_key -iv $encrypted_ff1a8d824b7b_iv -in Unity_v2019.x1.ulf.enc -out ./Unity_v2019.x1.ulf -d
 - export UNITY_LICENSE_CONTENT=`cat Unity_v2019.x1.ulf`
 - docker pull ${BASE_IMAGE_NAME}-windows
 - docker pull ${BASE_IMAGE_NAME}-android
@@ -20,10 +19,8 @@ before_script:
 script:
 - export BUILD_TARGET=StandaloneWindows64; export IMAGE_NAME=${BASE_IMAGE_NAME}-windows;
   ./ci/docker_build.sh
-#- export BUILD_APP_BUNDLE=false;
 - export BUILD_TARGET=Android; export IMAGE_NAME=${BASE_IMAGE_NAME}-android; ./ci/docker_build.sh
-#- export BUILD_APP_BUNDLE=true;
-#- export BUILD_TARGET=Android; export IMAGE_NAME=${BASE_IMAGE_NAME}-android; ./ci/docker_build.sh
+
 before_deploy:
 #Set up git user name and tag this commit
 - git config --local user.name "Kuu44"
